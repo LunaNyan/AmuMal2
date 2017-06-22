@@ -1,0 +1,9 @@
+F:\amumal\AmuMal2\AmuMal2\AmuMal2\bin\Debug\AmuMal2.exe
+F:\amumal\AmuMal2\AmuMal2\AmuMal2\bin\Debug\AmuMal2.pdb
+F:\amumal\AmuMal2\AmuMal2\AmuMal2\bin\Debug\AmuMal2.xml
+F:\amumal\AmuMal2\AmuMal2\AmuMal2\obj\Debug\AmuMal2.vbprojResolveAssemblyReference.cache
+F:\amumal\AmuMal2\AmuMal2\AmuMal2\obj\Debug\AmuMal2.Resources.resources
+F:\amumal\AmuMal2\AmuMal2\AmuMal2\obj\Debug\AmuMal2.vbproj.GenerateResource.Cache
+F:\amumal\AmuMal2\AmuMal2\AmuMal2\obj\Debug\AmuMal2.exe
+F:\amumal\AmuMal2\AmuMal2\AmuMal2\obj\Debug\AmuMal2.xml
+F:\amumal\AmuMal2\AmuMal2\AmuMal2\obj\Debug\AmuMal2.pdb
