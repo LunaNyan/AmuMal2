@@ -1,4 +1,5 @@
-﻿Imports System
+﻿Imports System.Resources
+Imports System
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 
@@ -8,11 +9,11 @@ Imports System.Runtime.InteropServices
 
 ' 어셈블리 특성 값을 검토합니다.
 
-<Assembly: AssemblyTitle("AmuMal2")>
+<Assembly: AssemblyTitle("아무말")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("Hewlett-Packard Company")>
-<Assembly: AssemblyProduct("AmuMal2")>
-<Assembly: AssemblyCopyright("Copyright © Hewlett-Packard Company 2017")>
+<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyProduct("아무말")>
+<Assembly: AssemblyCopyright("Twitter @ThisIsMoneLTAN")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
@@ -31,5 +32,6 @@ Imports System.Runtime.InteropServices
 ' 지정되도록 할 수 있습니다.
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("2.1.0.2")>
+<Assembly: AssemblyFileVersion("2.1.0.2")>
+<Assembly: NeutralResourcesLanguage("ko-KR")>

@@ -13,7 +13,7 @@ Module Module1
         Console.ForegroundColor = ConsoleColor.White
         Console.Clear()
 
-        Console.WriteLine("아무말 v2.10")
+        Console.WriteLine("아무말 v2.10b")
         Console.WriteLine(" ")
         Console.WriteLine("Build by null, at 20170623. Twitter @ThisIsMoneLTAN")
         Console.WriteLine("Repo : https://github.com/NewMoneL/AmuMal2")
@@ -76,6 +76,11 @@ Module Module1
         Print(FileNum, vbCrLf & "----------")
         FileClose(FileNum)
 
+        Console.WriteLine(" ")
+        Console.WriteLine("기록되었습니다.")
+        Console.WriteLine(Format(Now, "yyyy-MM-dd hh:mm:ss"))
+        Console.WriteLine(" ")
+
     End Sub
 
     Sub Help()
@@ -121,6 +126,11 @@ Module Module1
         Print(FileNum, vbCrLf & Format(Now, "yyyy-MM-dd hh:mm:ss"))
         Print(FileNum, vbCrLf & "----------")
         FileClose(FileNum)
+
+        Console.WriteLine(" ")
+        Console.WriteLine("기록되었습니다.")
+        Console.WriteLine(Format(Now, "yyyy-MM-dd hh:mm:ss"))
+        Console.WriteLine(" ")
 
     End Sub
 
