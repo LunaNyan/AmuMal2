@@ -7,3 +7,12 @@ F:\amumal\AmuMal2\AmuMal2\AmuMal2\obj\Release\AmuMal2.exe
 F:\amumal\AmuMal2\AmuMal2\AmuMal2\obj\Release\AmuMal2.xml
 F:\amumal\AmuMal2\AmuMal2\AmuMal2\obj\Release\AmuMal2.pdb
 F:\amumal\AmuMal2\AmuMal2\AmuMal2\obj\Release\AmuMal2.vbprojResolveAssemblyReference.cache
+F:\amumal\src\AmuMal2\AmuMal2\AmuMal2\obj\Release\AmuMal2.exe
+F:\amumal\src\AmuMal2\AmuMal2\AmuMal2\obj\Release\AmuMal2.xml
+F:\amumal\src\AmuMal2\AmuMal2\AmuMal2\obj\Release\AmuMal2.pdb
+F:\amumal\src\AmuMal2\AmuMal2\AmuMal2\bin\Release\AmuMal2.exe
+F:\amumal\src\AmuMal2\AmuMal2\AmuMal2\bin\Release\AmuMal2.pdb
+F:\amumal\src\AmuMal2\AmuMal2\AmuMal2\bin\Release\AmuMal2.xml
+F:\amumal\src\AmuMal2\AmuMal2\AmuMal2\obj\Release\AmuMal2.vbprojResolveAssemblyReference.cache
+F:\amumal\src\AmuMal2\AmuMal2\AmuMal2\obj\Release\AmuMal2.Resources.resources
+F:\amumal\src\AmuMal2\AmuMal2\AmuMal2\obj\Release\AmuMal2.vbproj.GenerateResource.Cache
